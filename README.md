@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nourddine-AITMASSAOUD
-- 👀 I’m interested in Telco cloud 
-- 🌱 I’m currently learning Spring boot
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cloud/DevOps/SysOps
+- 🌱 I’m currently learning GCP
 - 📫 How to reach me nourddine.ait.massaoud@gmail.com
 
 <!---
